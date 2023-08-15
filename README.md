@@ -44,7 +44,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  - - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
 **End result will be three cleaned data sets:**
- - [Reaction Types]()
+ - [Reaction Types](https://github.com/evans22j/-Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/ReactionTypes.csv)
  - [Reactions]()
  - [Content]()
 
