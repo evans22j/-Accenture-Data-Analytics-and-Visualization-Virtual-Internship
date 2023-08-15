@@ -2,7 +2,7 @@
 Accenture Data Analytics &amp; Visualization Internship, in this project I focused on Analyzing sample data sets with visualizations to understand the popularity of different content categories.
 
 ## Certificate:
-[Certificate]()
+[Certificate](https://github.com/evans22j/-Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_completion_certificate.pdf)
 
 ## Task - 1
 ### Project Understanding:
