@@ -19,7 +19,7 @@ Accenture Data Analytics &amp; Visualization Internship, in this project I focus
  >- Three requirements that Accenture is tasked to fulfill: Audit of data practice, recommendations for IPO, analysis of popular content
  
  #### Accenture Project Team :
- <img src = "">
+ <img src = "Project Team.png">
  
  #### Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
